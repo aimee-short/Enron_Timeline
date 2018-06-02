@@ -1,0 +1,19 @@
+id,email,label,enron
+41524,msmith1@enron.com,0,1
+80872,gphillip@enron.com,"""George Phillips """,1
+48750,kmagruder@newpower.com,"""",0
+48735,dbenevid@enron.com,0,1
+782,don.black@enron.com,Don Black,1
+4130,kevin.hannon@enron.com,0,1
+28525,mday@gmssr.com,0,0
+3441,kenneth.lay@enron.com,0,1
+9244,richard.sanders@enron.com,0,1
+4894,wade.cline@enron.com,0,1
+1490,steven.kean@enron.com,0,1
+2170,mary.clark@enron.com,Mary Clark,1
+34227,robert.c.williams@enron.com,robert.c.williams,1
+1452,david.delainey@enron.com,David Delainey,1
+3536,rosalee.fleming@enron.com,Rosalee Fleming,1
+28730,susan.landwehr@enron.com,0,1
+41214,jbennett@gmssr.com,0,0
+29416,richard.b.sanders@enron.com,0,1
