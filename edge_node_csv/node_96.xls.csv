@@ -1,0 +1,5 @@
+id,email,label,enron
+584,m..presto@enron.com,Kevin M. Presto,1
+37912,dsalter@hgp-inc.com,"""Dan Salter""",0
+499,dana.davis@enron.com,Mark Dana Davis,1
+37926,fgiffels@hgp-inc.com,"""Fred W. Giffels""",0

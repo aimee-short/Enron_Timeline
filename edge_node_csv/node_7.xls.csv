@@ -1,0 +1,16 @@
+id,email,label,enron
+44409,robtaylor@andrews-kurth.com,0,0
+17563,barton.clark@enron.com,0,1
+3450,bill.donovan@enron.com,0,1
+20200,matthew.berry@enron.com,0,1
+19118,roger.ondreko@enron.com,0,1
+3113,sara.shackleton@enron.com,0,1
+56853,sean.black@enron.com,0,1
+2220,chris.long@enron.com,Chris Long,1
+1490,steven.kean@enron.com,0,1
+56895,hwendell@mdbe.com,0,0
+154,sheila.tweed@enron.com,Sheila Tweed,1
+9482,michael.hicks@enron.com,0,1
+3163,chris.holmes@enron.com,0,1
+9311,joe.hillings@enron.com,0,1
+1699,brad.nebergall@enron.com,0,1

@@ -1,0 +1,47 @@
+id,email,label,enron
+11193,damon.harvey@enron.com,0,1
+155,elizabeth.sager@enron.com,Elizabeth Sager,1
+49205,bob_anderson@apses.com,0,0
+49206,ken_czarnecki@calpx.com,0,0
+49207,camiessn@newwestenergy.com,0,0
+48354,curt.hatton@gen.pge.com,curt hatton,0
+47165,rpelote@energy.twc.com,0,0
+9244,richard.sanders@enron.com,0,1
+48352,glwaas@calpx.com,Gene Waas,0
+48102,jcgardin@newwestenergy.com,0,0
+49204,barbara_klemstine@apsc.com,0,0
+3164,rcarroll@bracepatt.com,"""Ronald Carroll""",0
+48158,cabaker@duke-energy.com,"""",0
+46799,dcazalet@apx.com,"""",0
+5074,ann.schmidt@enron.com,0,1
+48105,kewh@dynegy.com,0,0
+1547,mark.palmer@enron.com,0,1
+28621,pmeringolo@brobeck.com,0,0
+4001,gfergus@brobeck.com,0,0
+48107,rllamkin@seiworldwide.com,0,0
+2170,mary.clark@enron.com,Mary Clark,1
+28480,seabron.adamson@frontier-economics.com,0,0
+17095,mary.hain@enron.com,0,1
+28489,ellen@tca-us.com,0,0
+48100,billr@calpine.com,0,0
+2289,laura.schwartz@enron.com,Laura Schwartz,1
+48656,foothill@lmi.net,0,0
+47052,douglass@arterhadden.com,0,0
+206,christian.yoder@enron.com,0,1
+48108,rsnichol@newwestenergy.com,0,0
+46859,smara@enron.com,"""",1
+48638,susan_j_mara@enron.com,0,1
+48221,jackp@calpine.com,"""",0
+45145,jsteffe@enron.com,0,1
+1490,steven.kean@enron.com,0,1
+2157,elizabeth.linnell@enron.com,Elizabeth Linnell,1
+5128,jeannie.mandelker@enron.com,0,1
+46814,jdasovic@enron.com,"""Jeff Dasovich """,1
+5126,keith.miceli@enron.com,0,1
+47075,gtbl@dynegy.com,0,0
+5121,eric.thode@enron.com,0,1
+28579,cfi1@tca-us.com,0,0
+1180,karen.denne@enron.com,Karen Denne,1
+1240,steve.hall@enron.com,Steve Hall,1
+2168,meredith.philipp@enron.com,Meredith Philipp,1
+47837,rjhickok@duke-energy.com,0,0

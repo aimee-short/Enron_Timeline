@@ -1,0 +1,9 @@
+id,email,label,enron
+1977,mark.pickering@enron.com,0,1
+2235,beth.perlman@enron.com,Beth Perlman,1
+12939,exenron@hotmail.com,"""another one""",0
+3441,kenneth.lay@enron.com,0,1
+1482,john.shelk@enron.com,0,1
+347,d..steffes@enron.com,James D. Steffes,1
+812,l..nicolay@enron.com,0,1
+817,richard.shapiro@enron.com,Richard Shapiro,1

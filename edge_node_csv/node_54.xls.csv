@@ -1,0 +1,119 @@
+id,email,label,enron
+28538,dezickson@mwe.com,0,0
+17678,suzanne_nimocks@mckinsey.com,Suzanne_Nimocks@mckinsey.com,0
+80736,dan.wall@lw.com,"Dan"" ""Wall",0
+80735,zack.starbird@mirant.com,"Zackary"" ""Starbird",0
+80734,hugh.davenport@mirant.com,"Hugh"" ""Davenport",0
+11380,shanna.funkhouser@enron.com,0,1
+1547,mark.palmer@enron.com,0,1
+51578,mike-jines@reliantenergy.com,0,0
+80638,marylou.peters@msdw.com,0,0
+80639,mcmahon@scmv.com,0,0
+80636,leone@scmv.com,0,0
+80637,llane@graycary.com,0,0
+80634,kirk.forrest@williams.com,0,0
+80635,kleinmanj@dsmo.com,0,0
+80632,juneann.sauntry@troutmansanders.com,0,0
+80633,kadzikp@dsmo.com,0,0
+80630,jshohet@graycary.com,0,0
+80631,jtbrooks@luce.com,0,0
+2171,courtney.votaw@enron.com,Courtney Votaw,1
+8431,skean@enron.com,Steve Kean,1
+43877,jennifer.costa@neg.pge.com,"Jennifer"" ""Costa",0
+1490,steven.kean@enron.com,0,1
+51563,alex.goldberg@williams.com,0,0
+49195,rmcmanus@bakerbotts.com,0,0
+47131,napedersen@jonesday.com,0,0
+80609,bmerryman@whitecase.com,0,0
+51163,thoulihan@mdbe.com,"""",0
+51165,jguzman@nossaman.com,"""",0
+80683,mike.weaver@lw.com,"Michael"" ""Weaver",0
+80682,jsturgeon@whitecase.com,"John"" ""Sturgeon",0
+80681,springerj@dsmo.com,"James"" ""Springer",0
+80680,sraber@wc.com,"Stephen"" ""Raber",0
+80684,hwiegmann@wc.com,"Hack"" ""Wiegmann",0
+48218,jkarp@whitecase.com,"""",0
+11774,light-kelly@reliantenergy.com,0,0
+80615,cvarner@smrh.com,0,0
+80616,dpickett@mdbe.com,0,0
+80617,dtribble@pillsburywinthrop.com,0,0
+80611,charles.zdebski@troutmansanders.com,0,0
+50187,jfrizzell@gibbs-bruns.com,0,0
+80613,cmpallenik@duke-energy.com,0,0
+80618,eisenstatl@dsmo.com,0,0
+80619,fallonr@dsmo.com,0,0
+78338,tim.muller@williams.com,"Tim"" ""Muller",0
+80751,lhernandez@luce.com,"Lynne"" ""Hernandez",0
+80752,peter.benzian@lw.com,"Peter"" ""Benzian",0
+34035,dcastro@pkns.com,dcastro,0
+34034,djn@pkns.com,djn,0
+34033,jalexander@gibbs-bruns.com,jalexander,0
+51592,jtiffany@pillsburywinthrop.com,0,0
+2267,katrina.burton@enron.com,Katrina Burton,1
+51597,mkass@pillsburywinthrop.com,0,0
+47314,jmpa@dynegy.com,0,0
+2287,mike.mcconnell@enron.com,Mike Mcconnell,1
+80748,millerl@dsmo.com,"""Lisa Miller""",0
+28554,sbishop@gibbs-bruns.com,0,0
+51588,jdne@dynegy.com,0,0
+51589,lcottle@whitecase.com,0,0
+2169,sarah.palmer@enron.com,Sarah Palmer,1
+43907,jennifer.hein@neg.pge.com,0,0
+3095,martin.bucknell@enron.com,0,1
+51215,mmattes@nossaman.com,"""",0
+51586,jprussell@duke-energy.com,0,0
+80672,erik.bliss@lw.com,"Erik"" ""Bliss",0
+80673,dbutswinkas@wc.com,"Dane"" ""Butswinkas",0
+80671,bestorg@dsmo.com,"Geoffrey"" ""Bestor",0
+80676,brady.edwards@bakerbotts.com,"Brady"" ""Edwards",0
+80677,scott.harris@nrgenergy.com,"Scott"" ""Harris",0
+80674,echapin@chapinlaw.com,"Edward"" ""Chapin",0
+80678,bkatz@chapinlaw.com,"Bruno"" ""Katz",0
+80770,james_ransom@la.kirkland.com,"James"" ""Ransom",0
+80777,joel.mack@lw.com,0,0
+80776,jennifer.scafe@lw.com,0,0
+80775,ncregan@mdbe.com,0,0
+80570,apickens@gibbs-bruns.com,0,0
+34227,robert.c.williams@enron.com,robert.c.williams,1
+80764,pete_m_schenkkan@reliantenergy.com,"Pete"" ""Schenkkan",0
+80767,tkinnear@luce.com,"Todd"" ""Kinnear",0
+80760,tspanos@morganlewis.com,"""",0
+80761,david_burns@reliantenergy.com,"David"" ""Burns",0
+80649,rsteiner@luce.com,0,0
+80648,roppe@scmv.com,0,0
+80647,robert.edwards@troutmansanders.com,0,0
+80646,rcoleman@duke-energy.com,0,0
+80645,perlism@dsmo.com,0,0
+80644,nnissen@mdbe.com,0,0
+80768,ernie.kohnke@dynegy.com,"Ernie"" ""Kohnke",0
+80769,sydne_michel@la.kirkland.com,"Sydne"" ""Michel",0
+80641,mmaxwell@bakerbotts.com,0,0
+80640,mhamer@graycary.com,0,0
+1180,karen.denne@enron.com,Karen Denne,1
+1452,david.delainey@enron.com,David Delainey,1
+80747,ghalling@smrh.com,"""Gary Halling""",0
+1516,charles.yeung@enron.com,0,1
+47088,jleslie@luce.com,0,0
+29416,richard.b.sanders@enron.com,0,1
+80612,chealey@luce.com,0,0
+80658,ttaylor@smrh.com,0,0
+80717,sanford.hartman@neg.pge.com,"Sanford"" ""Hartman",0
+80651,steve.herman@neg.pge.com,0,0
+80652,tanya.murphy@neg.pge.com,0,0
+80654,thixson@mdbe.com,0,0
+80656,tkennedy@mdbe.com,0,0
+80657,tony_richardson@la.kirkland.com,0,0
+50308,bbailey@duke-energy.com,0,0
+80642,msottosanti@smrh.com,0,0
+4001,gfergus@brobeck.com,0,0
+41524,msmith1@enron.com,0,1
+41865,jche@dynegy.com,"""",0
+2170,mary.clark@enron.com,Mary Clark,1
+80629,john.gammie@williams.com,0,0
+80628,jeffrey_davidson@la.kirkland.com,0,0
+80625,holcombb@dsmo.com,0,0
+80624,hershberger@scmv.com,0,0
+80627,james.beh@troutmansanders.com,0,0
+80621,gallen@bakerbotts.com,0,0
+80623,heather.brown@williams.com,0,0
+80622,gcopeland@bakerbotts.com,0,0

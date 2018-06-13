@@ -1,0 +1,1145 @@
+id,email,label,enron
+4,crcommunications@caiso.com,CRCommunications,0
+5,20participants@caiso.com,ISO Market Participants,0
+36,alan.comnes@enron.com,Alan Comnes,1
+37,tim.belden@enron.com,Tim Belden,1
+39,kit.blair@enron.com,Kit Blair,1
+42,jeff.richter@enron.com,Jeff Richter,1
+44,.hall@enron.com,legal,1
+51,debra.davidson@enron.com,Debra Davidson,1
+55,robert.badeer@enron.com,Robert Badeer,1
+56,tim.heizenrader@enron.com,Tim Heizenrader,1
+58,p..o'neil@enron.com,Murray P. Neil,1
+60,mike.swerzbin@enron.com,Mike Swerzbin,1
+65,anna.mehrer@enron.com,0,1
+66,steve.walton@enron.com,Steve Walton,1
+67,dave.perrino@enron.com,Dave Perrino,1
+68,lysa.tracy@enron.com,0,1
+72,chip.schneider@enron.com,Chip Schneider,1
+75,andre.cangucu@enron.com,Andre Cangucu,1
+89,greg.wolfe@enron.com,Greg Wolfe,1
+98,david.guillaume@enron.com,0,1
+115,m..driscoll@enron.com,Michael M. Driscoll,1
+124,chris.stokley@enron.com,Chris Stokley,1
+129,stanley.cocke@enron.com,Stanley Cocke Jr.,1
+132,kathryn.sheppard@enron.com,0,1
+144,tracy.ngo@enron.com,0,1
+151,c..hall@enron.com,Steve C. Hall,1
+154,sheila.tweed@enron.com,Sheila Tweed,1
+155,elizabeth.sager@enron.com,Elizabeth Sager,1
+159,david.parquet@enron.com,David Parquet,1
+166,lysa.akin@enron.com,0,1
+168,christopher.calger@enron.com,0,1
+181,paul.kaufman@enron.com,0,1
+182,jan.king@enron.com,0,1
+200,steve.swain@enron.com,0,1
+206,christian.yoder@enron.com,0,1
+208,michael.etringer@enron.com,0,1
+210,stephen.swain@enron.com,0,1
+213,chris.foster@enron.com,Chris H Foster,1
+215,stacey.white@enron.com,0,1
+222,david.oxley@enron.com,David Oxley,1
+227,sally.beck@enron.com,Sally Beck,1
+242,michelle.cash@enron.com,Michelle Cash,1
+253,jeff.dasovich@enron.com,Jeff Dasovich,1
+255,angela.davis@enron.com,Angela Davis,1
+266,janette.elbertson@enron.com,Janette Elbertson,1
+275,e..haedicke@enron.com,Mark E. Haedicke,1
+284,t..hodge@enron.com,Jeffrey T. Hodge,1
+288,tana.jones@enron.com,Tana Jones,1
+293,louise.kitchen@enron.com,Louise Kitchen,1
+314,jeffrey.miller@enron.com,Jeffrey Miller,1
+318,marcus.nettelton@enron.com,Marcus Nettelton,1
+334,leslie.reeves@enron.com,Leslie Reeves,1
+347,d..steffes@enron.com,James D. Steffes,1
+355,.taylor@enron.com,legal,1
+409,bwillia5@enron.com,William Williams,1
+410,georgeanne.hodges@enron.com,Georgeanne Hodges,1
+412,no.address@enron.com,0,1
+413,john.llodra@enron.com,John Llodra,1
+414,george.wood@enron.com,George Wood,1
+427,chris.dorland@enron.com,Chris Dorland,1
+435,robert.hemstock@enron.com,Robert Hemstock,1
+495,wes.colwell@enron.com,Wes Colwell,1
+499,dana.davis@enron.com,Mark Dana Davis,1
+518,mercy.gil@enron.com,Mercy Gil,1
+538,rika.imai@enron.com,Rika Imai,1
+543,robert.johnston@enron.com,Robert Johnston,1
+554,martin.lin@enron.com,Martin Lin,1
+577,leonardo.pacheco@enron.com,Leonardo Pacheco,1
+584,m..presto@enron.com,Kevin M. Presto,1
+590,edward.sacks@enron.com,Edward Sacks,1
+609,patrick.tucker@enron.com,Patrick Tucker,1
+618,lloyd.will@enron.com,Lloyd Will,1
+629,k..allen@enron.com,Phillip K. Allen,1
+644,david.baumbach@enron.com,David Baumbach,1
+675,l..gay@enron.com,Randall L. Gay,1
+680,mike.grigsby@enron.com,Mike Grigsby,1
+687,keith.holst@enron.com,Keith Holst,1
+698,kam.keiser@enron.com,Kam Keiser,1
+701,john.lavorato@enron.com,John Lavorato,1
+709,a..martin@enron.com,Thomas A. Martin,1
+713,errol.mclaughlin@enron.com,Errol McLaughlin Jr.,1
+717,stephanie.miller@enron.com,Stephanie Miller,1
+724,scott.neal@enron.com,Scott Neal,1
+741,jenny.rub@enron.com,Jenny Rub,1
+744,russ.severson@enron.com,Russ Severson,1
+756,geoff.storey@enron.com,Geoff Storey,1
+757,patti.sullivan@enron.com,Patti Sullivan,1
+761,m..tholt@enron.com,Jane M. Tholt,1
+765,barry.tycholiz@enron.com,Barry Tycholiz,1
+767,john.valdes@enron.com,John Valdes,1
+770,frank.vickers@enron.com,Frank Vickers,1
+782,don.black@enron.com,Don Black,1
+795,john.griffith@enron.com,John Griffith,1
+800,ray.alvarez@enron.com,Ray Alvarez,1
+801,susan.mara@enron.com,Susan Mara,1
+802,gordon.savage@enron.com,Gordon Savage,1
+803,jennifer.thome@enron.com,Jennifer Thome,1
+812,l..nicolay@enron.com,0,1
+813,sarah.novosel@enron.com,0,1
+817,richard.shapiro@enron.com,Richard Shapiro,1
+818,linda.robertson@enron.com,Linda Robertson,1
+819,susan.lindberg@enron.com,Susan Lindberg,1
+883,.dan@enron.com,e-mail,1
+895,.gary@enron.com,e-mail,1
+966,andy.rodriquez@enron.com,0,1
+1016,neil.bresnan@enron.com,Neil Bresnan,1
+1054,jubran.whalan@enron.com,Jubran Whalan,1
+1092,travis.mccullough@enron.com,Travis McCullough,1
+1119,joe.gordon@enron.com,Joe Gordon,1
+1126,tom.may@enron.com,Tom May,1
+1127,narsimha.misra@enron.com,Narsimha Misra,1
+1131,joe.quenet@enron.com,Joe Quenet,1
+1136,janelle.scheuer@enron.com,Janelle Scheuer,1
+1139,robert.stalford@enron.com,Robert Stalford,1
+1145,benjamin.rogers@enron.com,Benjamin Rogers,1
+1148,gautam.gupta@enron.com,Gautam Gupta,1
+1162,abb@eslawfirm.com,Andy Brown,0
+1174,b..sanders@enron.com,Richard B. Sanders,1
+1175,arsystem@mailman.enron.com,ARSystem,1
+1178,robert.frank@enron.com,Robert Frank,1
+1179,.palmer@enron.com,pr,1
+1180,karen.denne@enron.com,Karen Denne,1
+1238,bwoertz@caiso.com,Byron Woertz,0
+1239,.ron@enron.com,e-mail,1
+1240,steve.hall@enron.com,Steve Hall,1
+1282,gina.corteselli@enron.com,Gina Corteselli,1
+1388,christie.patrick@enron.com,Christie Patrick,1
+1399,eric.boyt@enron.com,Eric Boyt,1
+1406,nancy.bagot@enron.com,Nancy Bagot,1
+1416,christi.nicolay@enron.com,Christi Nicolay,1
+1452,david.delainey@enron.com,David Delainey,1
+1453,janet.dietrich@enron.com,Janet Dietrich,1
+1454,j..kean@enron.com,Steven J. Kean,1
+1456,dan.leff@enron.com,Dan Leff,1
+1458,lamar.frazier@enron.com,Lamar Frazier,1
+1460,c..williams@enron.com,Robert C. Williams,1
+1463,maureen.mcvicker@enron.com,0,1
+1464,kathy.dodgen@enron.com,0,1
+1465,twanda.sweet@enron.com,0,1
+1466,esmeralda.hinojosa@enron.com,0,1
+1473,ebe4476b-2d94882a-86256a14-75ff3b@enron.com,Ray Alvarez,1
+1474,joe.hartsoe@enron.com,0,1
+1475,dennis.benevides@enron.com,0,1
+1476,jess.hewitt@enron.com,0,1
+1477,greg.whalley@enron.com,0,1
+1478,w..cantrell@enron.com,0,1
+1479,leslie.lawner@enron.com,0,1
+1480,tom.briggs@enron.com,0,1
+1481,david.leboe@enron.com,0,1
+1482,john.shelk@enron.com,0,1
+1485,donna.fulton@enron.com,0,1
+1489,james.steffes@enron.com,0,1
+1490,steven.kean@enron.com,0,1
+1491,linda.noske@enron.com,0,1
+1492,w..vickers@enron.com,0,1
+1497,legalonline-compliance@enron.com,Office of the Chairman - Enron Wholesale Services,1
+1498,williams@mailman.enron.com,0,1
+1507,rebecca.cantrell@enron.com,0,1
+1516,charles.yeung@enron.com,0,1
+1517,richard.ingersoll@enron.com,0,1
+1543,richard.causey@enron.com,0,1
+1544,rick.buy@enron.com,0,1
+1547,mark.palmer@enron.com,0,1
+1568,lisa.bills@enron.com,0,1
+1570,rob.bradley@enron.com,0,1
+1595,tim.despain@enron.com,0,1
+1600,jeff.donahue@enron.com,0,1
+1611,rodney.faldyn@enron.com,0,1
+1620,scott.gahn@enron.com,0,1
+1621,kevin.garland@enron.com,0,1
+1625,david.gorte@enron.com,0,1
+1629,ken.gustafson@enron.com,0,1
+1635,matt.harris@enron.com,0,1
+1637,rod.hayslett@enron.com,0,1
+1648,evan.hughes@enron.com,0,1
+1650,catherine.huynh@enron.com,0,1
+1654,j.kaminski@enron.com,0,1
+1666,pinnamaneni.krishnarao@enron.com,0,1
+1672,richard.leibert@enron.com,0,1
+1673,james.lewis@enron.com,0,1
+1678,chris.mahoney@enron.com,0,1
+1680,michael.mann@enron.com,0,1
+1687,kevin.mcgowan@enron.com,0,1
+1689,jennifer.medcalf@enron.com,0,1
+1696,gayle.muench@enron.com,0,1
+1698,susan.musch@enron.com,0,1
+1699,brad.nebergall@enron.com,0,1
+1717,maureen.raymond@enron.com,0,1
+1724,paula.rieker@enron.com,0,1
+1732,jean.ryall@enron.com,0,1
+1735,angela.schwarz@enron.com,0,1
+1746,scott.stoness@enron.com,0,1
+1749,craig.sutter@enron.com,0,1
+1754,jon.thomsen@enron.com,0,1
+1762,john.wack@enron.com,0,1
+1770,jimmie.williams@enron.com,0,1
+1771,shona.wilson@enron.com,0,1
+1774,james.wood@enron.com,0,1
+1779,lisa.yoho@enron.com,0,1
+1786,michael.tribolet@enron.com,0,1
+1797,ban.sharma@enron.com,0,1
+1881,greg.martin@enron.com,Greg Martin,1
+1977,mark.pickering@enron.com,0,1
+1978,greg.piper@enron.com,0,1
+2035,michael.roan@enron.com,Michael Roan,1
+2036,luiz.maurer@enron.com,Luiz Maurer,1
+2037,a..hueter@enron.com,Barbara A. Hueter,1
+2038,m..landwehr@enron.com,Susan M. Landwehr,1
+2039,tom.hoatson@enron.com,Tom Hoatson,1
+2044,lance.cunningham@enron.com,Lance Cunningham,1
+2058,shirley.crenshaw@enron.com,Shirley Crenshaw,1
+2069,amitava.dhar@enron.com,Amitava Dhar,1
+2075,gwyn.koepke@enron.com,Gwyn Koepke,1
+2078,jason.sokolov@enron.com,Jason Sokolov,1
+2086,nelson.neale@enron.com,Nelson Neale,1
+2093,sandeep.kohli@enron.com,Sandeep Kohli,1
+2106,vasant.shanbhogue@enron.com,Vasant Shanbhogue,1
+2109,zimin.lu@enron.com,Zimin Lu,1
+2156,ginger.dernehl@enron.com,Ginger Dernehl,1
+2157,elizabeth.linnell@enron.com,Elizabeth Linnell,1
+2160,kathleen.sullivan@enron.com,Kathleen Sullivan,1
+2168,meredith.philipp@enron.com,Meredith Philipp,1
+2169,sarah.palmer@enron.com,Sarah Palmer,1
+2170,mary.clark@enron.com,Mary Clark,1
+2171,courtney.votaw@enron.com,Courtney Votaw,1
+2172,m..schmidt@enron.com,Ann M. Schmidt,1
+2176,jim.fallon@enron.com,Jim Fallon,1
+2200,elyse.kalmans@enron.com,Elyse Kalmans,1
+2201,cindy.olson@enron.com,Cindy Olson,1
+2202,a..shankman@enron.com,Jeffrey A. Shankman,1
+2204,ricardo.charvel@enron.com,Ricardo Charvel,1
+2205,jeff.brown@enron.com,Jeff Brown,1
+2206,stacey.bolton@enron.com,Stacey Bolton,1
+2209,sue.nord@enron.com,Sue Nord,1
+2213,j..noske@enron.com,Linda J. Noske,1
+2214,stephen.burns@enron.com,Stephen Burns,1
+2215,john.hardy@enron.com,John Hardy Jr,1
+2217,bernadette.hawkins@enron.com,Bernadette Hawkins,1
+2218,carolyn.cooney@enron.com,Carolyn Cooney,1
+2219,lora.sullivan@enron.com,Lora Sullivan,1
+2220,chris.long@enron.com,Chris Long,1
+2221,rubena.buerger@enron.com,Rubena Buerger,1
+2222,harry.kingerski@enron.com,Harry Kingerski,1
+2224,robert.neustaedter@enron.com,Robert Neustaedter,1
+2225,melinda.pharms@enron.com,Melinda Pharms,1
+2228,steve.montovano@enron.com,Steve Montovano,1
+2229,janine.migden@enron.com,Janine Migden,1
+2235,beth.perlman@enron.com,Beth Perlman,1
+2238,joseph.alamo@enron.com,Joseph Alamo,1
+2239,daniel.allegretti@enron.com,Daniel Allegretti,1
+2241,kerry.stroup@enron.com,Kerry Stroup,1
+2242,lisa.jacobson@enron.com,Lisa Jacobson,1
+2248,howard.fromer@enron.com,Howard Fromer,1
+2254,allison.hamilton@enron.com,Allison Hamilton,1
+2256,marchris.robinson@enron.com,Marchris Robinson,1
+2258,rita.hartfield@enron.com,Rita Hartfield,1
+2259,thane.twiggs@enron.com,Thane Twiggs,1
+2267,katrina.burton@enron.com,Katrina Burton,1
+2277,cindy.derecskey@enron.com,Cindy Derecskey,1
+2279,andrew.edison@enron.com,Andrew Edison,1
+2280,shelley.corman@enron.com,Shelley Corman,1
+2282,n.baker@enron.com,Marilyn N Baker,1
+2287,mike.mcconnell@enron.com,Mike Mcconnell,1
+2289,laura.schwartz@enron.com,Laura Schwartz,1
+2305,brandon.rigney@enron.com,Brandon Rigney,1
+2307,alfredo.huertas@enron.com,Alfredo Huertas,1
+2309,jose.bestard@enron.com,Jose Bestard,1
+2310,pat.shortridge@enron.com,Pat Shortridge,1
+2311,dan.staines@enron.com,Dan Staines,1
+2313,angela.wilson@enron.com,Angela Wilson,1
+2315,kelly.kimberly@enron.com,Kelly Kimberly,1
+2316,terrie.james@enron.com,Terrie James,1
+2318,vicki.sharp@enron.com,Vicki Sharp,1
+2319,harold.buchanan@enron.com,Harold Buchanan,1
+2326,janel.guerrero@enron.com,0,1
+2349,craig.taylor@enron.com,Craig Taylor,1
+2357,brian.redmond@enron.com,Brian Redmond,1
+2362,gary.bryan@enron.com,Gary Bryan,1
+2370,vladimir.gorny@enron.com,Vladimir Gorny,1
+2380,tom.dutta@enron.com,Tom Dutta,1
+2382,mark.bernstein@enron.com,Mark Bernstein,1
+2383,michael.brown@enron.com,Michael Brown,1
+2385,joe.connor@enron.com,Joe Connor,1
+2402,.joseph@enron.com,e-mail,1
+2439,john.brindle@enron.com,0,1
+2500,kathy.bass@enron.com,Kathy Bass,1
+2514,ruth.concannon@enron.com,Ruth Concannon,1
+2524,nelson.ferries@enron.com,Nelson Ferries,1
+2575,joe.parks@enron.com,Joe Parks,1
+2599,matt.smith@enron.com,Matt Smith,1
+2738,paul.broderick@enron.com,0,1
+2785,robin.kittel@enron.com,0,1
+2822,ricardo.perez@enron.com,0,1
+2823,kevin.presto@enron.com,0,1
+2829,paul.thomas@enron.com,0,1
+2992,martha.stevens@enron.com,Martha Stevens,1
+3032,sheri.thomas@enron.com,Sheri Thomas,1
+3046,jonathan.whitehead@enron.com,Jonathan Whitehead,1
+3095,martin.bucknell@enron.com,0,1
+3110,julia.murray@enron.com,0,1
+3111,gerald.nemec@enron.com,0,1
+3113,sara.shackleton@enron.com,0,1
+3114,paul.simons@enron.com,0,1
+3120,beverly.aden@enron.com,0,1
+3121,bill.votaw@enron.com,0,1
+3122,brenda.barreda@enron.com,0,1
+3123,carol.moffett@enron.com,0,1
+3124,cathy.corbin@enron.com,0,1
+3125,christina.liscano@enron.com,0,1
+3126,debora.whitehead@enron.com,0,1
+3128,eric.melvin@enron.com,0,1
+3129,erika.dupre@enron.com,0,1
+3130,fran.deltoro@enron.com,0,1
+3132,james.wright@enron.com,0,1
+3133,jeff.messina@enron.com,0,1
+3134,jeremy.blachman@enron.com,0,1
+3135,kevin.hughes@enron.com,0,1
+3136,leasa.lopez@enron.com,0,1
+3137,leticia.botello@enron.com,0,1
+3138,mark.muller@enron.com,0,1
+3139,marsha.suggs@enron.com,0,1
+3140,marty.sunde@enron.com,0,1
+3141,meredith.eggleston@enron.com,0,1
+3142,neil.hong@enron.com,0,1
+3143,paula.warren@enron.com,0,1
+3144,richard.zdunkewicz@enron.com,0,1
+3145,rita.hennessy@enron.com,0,1
+3148,sharon.dick@enron.com,0,1
+3149,tasha.lair@enron.com,0,1
+3151,tony.spruiell@enron.com,0,1
+3152,wanda.curry@enron.com,0,1
+3153,kathryn.corbally@enron.com,0,1
+3155,dirk.vanulden@enron.com,0,1
+3156,steve.walker@enron.com,0,1
+3157,jennifer.rudolph@enron.com,0,1
+3158,martin.wenzel@enron.com,0,1
+3161,john.neslage@enron.com,0,1
+3163,chris.holmes@enron.com,0,1
+3164,rcarroll@bracepatt.com,"""Ronald Carroll""",0
+3304,jmcintosh@caiso.com,0,0
+3441,kenneth.lay@enron.com,0,1
+3443,mark.koenig@enron.com,0,1
+3444,jeffrey.mcmahon@enron.com,0,1
+3445,mark.metts@enron.com,0,1
+3448,s..muller@enron.com,0,1
+3450,bill.donovan@enron.com,0,1
+3451,mary.joyce@enron.com,0,1
+3456,joe.gold@enron.com,0,1
+3462,eric.gonzales@enron.com,0,1
+3463,joseph.hirl@enron.com,0,1
+3469,richard.lewis@enron.com,0,1
+3474,.schuler@enron.com,legal,1
+3475,bryan.seyfried@enron.com,0,1
+3476,stuart.staley@enron.com,0,1
+3480,steve.young@enron.com,0,1
+3484,raymond.bowen@enron.com,0,1
+3495,nicholas.o'day@enron.com,0,1
+3535,markus.fiala@enron.com,Markus Fiala,1
+3536,rosalee.fleming@enron.com,Rosalee Fleming,1
+3538,mark.frevert@enron.com,Mark Frevert,1
+3571,stephen.plauche@enron.com,Stephen Plauche,1
+3608,jean.mrha@enron.com,0,1
+3635,eric.moon@enron.com,Eric Moon,1
+3659,scott.tholan@enron.com,0,1
+4001,gfergus@brobeck.com,0,0
+4005,kaplan@iepa.com,0,0
+4058,jeff.skilling@enron.com,0,1
+4090,joe.hirko@enron.com,0,1
+4094,rex.shelby@enron.com,0,1
+4104,joannie.williamson@enron.com,0,1
+4112,sanjay.bhatnagar@enron.com,0,1
+4128,joseph.sutton@enron.com,0,1
+4129,cliff.baxter@enron.com,0,1
+4130,kevin.hannon@enron.com,0,1
+4132,john.sherriff@enron.com,0,1
+4133,philippe.bibi@enron.com,0,1
+4134,jeffrey.shankman@enron.com,0,1
+4135,mark.haedicke@enron.com,0,1
+4140,cindy.stark@enron.com,0,1
+4638,james.derrick@enron.com,0,1
+4639,j.metts@enron.com,0,1
+4651,ken.rice@enron.com,0,1
+4652,andrew.fastow@enron.com,0,1
+4653,david.haug@enron.com,0,1
+4664,sherri.sera@enron.com,0,1
+4752,lou.pai@enron.com,0,1
+4769,stanley.horton@enron.com,0,1
+4770,rebecca.mcdonald@enron.com,0,1
+4772,james.bannantine@enron.com,0,1
+4783,thor.lien@enron.com,0,1
+4785,john.nowlan@enron.com,0,1
+4796,ted.murphy@enron.com,0,1
+4851,peggy.mahoney@enron.com,0,1
+4854,william.bradford@enron.com,0,1
+4891,rick.bergsieker@enron.com,0,1
+4893,diomedes.christodoulou@enron.com,0,1
+4894,wade.cline@enron.com,0,1
+4909,james.hughes@enron.com,0,1
+4919,eric.newell@enron.com,0,1
+4926,james.prentice@enron.com,0,1
+4931,jeffrey.sherrick@enron.com,0,1
+4935,brian.stanley@enron.com,0,1
+4937,terence.thorn@enron.com,0,1
+4940,rob.walls@enron.com,0,1
+4941,george.wasaff@enron.com,0,1
+4942,peter.weidler@enron.com,0,1
+4967,miyung.buster@enron.com,0,1
+4984,binky.davidson@enron.com,0,1
+4995,dolores.fisher@enron.com,0,1
+5016,debra.hicks@enron.com,0,1
+5034,marcia.linton@enron.com,0,1
+5074,ann.schmidt@enron.com,0,1
+5087,rosalinda.tijerina@enron.com,0,1
+5099,dorothy.youngblood@enron.com,0,1
+5104,susan.skarness@enron.com,0,1
+5105,karen.heathman@enron.com,0,1
+5118,elizabeth.tilney@enron.com,0,1
+5119,dennis.vegas@enron.com,0,1
+5120,jackie.gentle@enron.com,0,1
+5121,eric.thode@enron.com,0,1
+5122,erin.rice@enron.com,0,1
+5123,margaret.allen@enron.com,0,1
+5125,john.ambler@enron.com,0,1
+5126,keith.miceli@enron.com,0,1
+5128,jeannie.mandelker@enron.com,0,1
+5132,amy.lee@enron.com,0,1
+5335,vince.kaminski@enron.com,0,1
+5337,rebecca.carter@enron.com,0,1
+5368,brenda.herod@enron.com,0,1
+5375,sean.holmes@enron.com,0,1
+5377,sean.long@enron.com,0,1
+5381,matthew.scrimshaw@enron.com,0,1
+5416,mark.schroeder@enron.com,0,1
+5455,eric.letke@enron.com,0,1
+5468,bruce.lundstrom@enron.com,0,1
+5475,jimmy.mogal@enron.com,0,1
+5480,danny.mccarty@enron.com,0,1
+5484,vanessa.groscrand@enron.com,0,1
+5575,rick.whitaker@enron.com,0,1
+5604,richard.amabile@enron.com,0,1
+5621,lance.schuler-legal@enron.com,0,1
+5669,steven.j.kean@enron.com,0,1
+5671,kelly.johnson@enron.com,0,1
+5721,larry.deroin@enron.com,0,1
+5827,kevinscott@onlinemailbox.net,0,0
+5885,triley@enron.com,0,1
+5894,peter.styles@enron.com,0,1
+5897,mark.taylor@enron.com,0,1
+5902,tim.underdown@enron.com,0,1
+5904,christoph.waltenspuel@enron.com,0,1
+5914,kalen.pieper@enron.com,0,1
+5915,drew.lynch@enron.com,0,1
+5919,karen.moore@enron.com,0,1
+5955,stacy.walker@enron.com,0,1
+5956,michael.terraso@enron.com,0,1
+6011,steven.january@enron.com,0,1
+6013,cynthia.barrow@enron.com,0,1
+6015,jordan.mintz@enron.com,0,1
+6016,mitchell.taylor@enron.com,0,1
+6061,mariella.mahan@enron.com,0,1
+6084,morris.brassfield@enron.com,0,1
+6104,vance.meyer@enron.com,0,1
+6106,stephanie.segura@enron.com,0,1
+6112,jane.wilson@enron.com,0,1
+6118,johan.zaayman@enron.com,0,1
+6152,london.brown@enron.com,Michael - COO London Brown,1
+6153,a..hughes@enron.com,James A. Hughes,1
+6266,jeffrey.gossett@enron.com,Jeffrey C Gossett,1
+6387,suzanne.brown@enron.com,0,1
+6396,fernley.dyson@enron.com,Fernley Dyson,1
+6399,beth.apollo@enron.com,0,1
+6407,everett.plante@enron.com,Everett Plante,1
+6411,kean@enron.com,0,1
+6417,kaminski@enron.com,0,1
+6477,elspeth.inglis@enron.com,0,1
+6487,keane@enron.com,keane@enron.com,1
+6843,donna.scott@enron.com,Donna Scott,1
+6943,gregory.schockling@enron.com,Gregory Schockling,1
+7089,james.richardson@enron.com,James Richardson,1
+7128,rosario.boling@enron.com,Rosario Boling,1
+7147,cullen.duke@enron.com,Cullen Duke,1
+7213,mike.smith@enron.com,Mike Smith,1
+7538,david.roland@enron.com,David Roland,1
+7573,james.saunders@enron.com,James Saunders,1
+7668,charles.cheek@enron.com,Charles Cheek,1
+7670,lauren.iannarone@enron.com,0,1
+7911,fabricio.soares@enron.com,0,1
+7958,kean.steve@enron.com,Steve Kean,1
+8227,hemery@firstunion1.com,"""Henry Emery""",0
+8249,ken@kdscommunications.com,"""Ken Smith""",0
+8303,drew.fossum@enron.com,Drew Fossum,1
+8304,eric.gadd@enron.com,Eric Gadd,1
+8308,steven.harris@enron.com,Steven Harris,1
+8312,elizabeth.labanowski@enron.com,Elizabeth Labanowski,1
+8431,skean@enron.com,Steve Kean,1
+8436,lipsen@cisco.com,Laura Ipsen,0
+8437,bg8862@aol.com,BG8862@aol.com@ENRON,0
+8474,david.nutt@enron.com,David Nutt,1
+8499,john.thompson@enron.com,C. John Thompson,1
+8518,dana.gibbs@enron.com,Dana Gibbs,1
+8519,steve.hotte@enron.com,Steve Hotte,1
+8546,mark.mcconnell@enron.com,0,1
+8556,mark.mcconnell@enron.com,0,1
+8833,jaime.williams@enron.com,Jaime Williams,1
+8851,w..delainey@enron.com,David W. Delainey,1
+9060,stella.chan@enron.com,0,1
+9096,rick.dietz@enron.com,0,1
+9221,lorraine.lindberg@enron.com,0,1
+9244,richard.sanders@enron.com,0,1
+9264,kriste.sullivan@enron.com,0,1
+9311,joe.hillings@enron.com,0,1
+9313,cynthia.sandherr@enron.com,0,1
+9314,jeffrey.keeler@enron.com,0,1
+9318,mark.lay@enron.com,0,1
+9321,susan.lopez@enron.com,0,1
+9468,gavin.dillingham@enron.com,0,1
+9482,michael.hicks@enron.com,0,1
+9537,barbara.hueter@enron.com,0,1
+9825,dwatkiss@bracepatt.com,0,0
+9826,awenner@velaw.com,0,0
+9846,stelzer@aol.com,0,0
+9924,stephen.horn@enron.com,0,1
+10227,brent.price@enron.com,0,1
+10241,phillip.allen@enron.com,0,1
+10242,thomas.martin@enron.com,0,1
+10249,d.hall@enron.com,0,1
+10417,timothy.detmering@enron.com,0,1
+10418,stephen.wallace@enron.com,0,1
+10551,hap.boyd@enron.com,0,1
+10552,dan.bruce@enron.com,0,1
+10598,joe.sutton@enron.com,0,1
+10758,andrew.morrison@enron.com,0,1
+10779,michael.rosen@enron.com,0,1
+10841,robert.knight@enron.com,0,1
+10866,karen.barbour@enron.com,0,1
+10869,aleck.dadson@enron.com,0,1
+10986,chris.hendrix@enron.com,0,1
+11156,sharon.butcher@enron.com,Sharon Butcher,1
+11164,shelia.benke@enron.com,0,1
+11193,damon.harvey@enron.com,0,1
+11303,john.kiani-aslani@enron.com,0,1
+11376,joe.richards@enron.com,0,1
+11377,e..sommers@enron.com,0,1
+11380,shanna.funkhouser@enron.com,0,1
+11387,david.marks@enron.com,0,1
+11397,marcus.dotson@enron.com,0,1
+11402,ron.bertasi@enron.com,0,1
+11406,t..zivley@enron.com,0,1
+11429,max.eberts@enron.com,Max Eberts,1
+11447,janet.butler@enron.com,Janet Butler,1
+11774,light-kelly@reliantenergy.com,0,0
+12134,kevin.hyatt@enron.com,Kevin Hyatt,1
+12168,.pat@enron.com,e-mail,1
+12939,exenron@hotmail.com,"""another one""",0
+13161,deborah.fiorito@dynegy.com,Deborah. Fiorito \(E-mail\),0
+13193,davidtaylorsf@aol.com,0,0
+13248,a..hope@enron.com,Valeria A. Hope,1
+13265,douglas.huth@enron.com,Douglas Huth,1
+13270,norm.spalding@enron.com,Norm Spalding,1
+13402,kathryn.schultea@enron.com,Kathryn Schultea,1
+14696,lisa.mellencamp@enron.com,Lisa Mellencamp,1
+14697,barbara.gray@enron.com,Barbara Gray,1
+14700,sandi.braband@enron.com,Sandi Braband,1
+14765,darron.giron@enron.com,0,1
+14935,susan.scott@enron.com,0,1
+14954,mary.schoen@enron.com,0,1
+15227,anne.labbe@enron.com,0,1
+15272,phillip.love@enron.com,Phillip Love,1
+15273,dan.hyvl@enron.com,Dan J Hyvl,1
+15283,margaret.carson@enron.com,0,1
+15296,jeffrey.hodge@enron.com,0,1
+15572,jill.zivley@enron.com,0,1
+15915,jennifer.stewart@enron.com,0,1
+15922,bob.hall@enron.com,0,1
+16395,emy.geraldo@enron.com,0,1
+17095,mary.hain@enron.com,0,1
+17099,shari.stack@enron.com,0,1
+17182,mike.roan@enron.com,0,1
+17252,james.keller@enron.com,0,1
+17364,robert.eickenroht@enron.com,0,1
+17366,levy@enron.com,0,1
+17367,mnlevy@swidlaw.com,0,0
+17392,jtdelorenzo@swidlaw.com,James DeLorenzo,0
+17394,gail.brownfeld@enron.com,0,1
+17413,richardson@copn.com,0,0
+17434,britt.davis@enron.com,0,1
+17437,elaine.overturf@enron.com,0,1
+17529,terri.greenlee@enron.com,0,1
+17533,jeff.bartlett@enron.com,0,1
+17563,barton.clark@enron.com,0,1
+17579,alex.parsons@enron.com,Alex Parsons,1
+17581,mika.watanabe@enron.com,Mika Watanabe,1
+17598,olivier.herbelot@enron.com,Olivier Herbelot,1
+17678,suzanne_nimocks@mckinsey.com,Suzanne_Nimocks@mckinsey.com,0
+17728,paul.chivers@enron.com,Paul Chivers,1
+17828,nelly.carpenter@enron.com,Nelly Carpenter,1
+17921,sharon.purswell@enron.com,0,1
+18009,shirley.hudler@enron.com,Shirley A Hudler,1
+18018,catherine.mckalip-thompson@enron.com,0,1
+18052,sarah-joy.hunter@enron.com,0,1
+18085,robert.h.george@enron.com,0,1
+18150,paul.dawson@enron.com,0,1
+18188,tomas.valnek@enron.com,0,1
+18387,donald.black@enron.com,0,1
+18762,vanessa.schulte@enron.com,0,1
+19118,roger.ondreko@enron.com,0,1
+19449,john.j.boudreaux@us.arthurandersen.com,john.j.boudreaux@us.arthurandersen.com@SMTP,0
+19450,john.vickers@us.arthurandersen.com,john.vickers@us.arthurandersen.com@SMTP,0
+19451,kate.agnew@us.arthurandersen.com,kate.agnew@us.arthurandersen.com@SMTP,0
+19452,jennifer.stevenson@us.arthurandersen.com,jennifer.stevenson@us.arthurandersen.com@SMTP,0
+19453,tom.bauer@us.arthurandersen.com,0,0
+19633,todd.burke@enron.com,0,1
+19661,roy.poyntz@enron.com,0,1
+19662,riccardo.bortolotti@enron.com,0,1
+19677,melissa.laing@enron.com,0,1
+19746,jo.hill@enron.com,0,1
+19925,mark.e.haedicke@enron.com,0,1
+19933,jeffery.ader@enron.com,0,1
+19979,douglas.clifford@enron.com,0,1
+19981,patrick.conner@enron.com,0,1
+19994,scott.healy@enron.com,0,1
+20200,matthew.berry@enron.com,0,1
+20279,hoyt.thomas@enron.com,0,1
+20517,felecia.acevedo@enron.com,0,1
+20612,peter.goebel@enron.com,0,1
+20737,amy.kim@enron.com,0,1
+21071,kurt.lindahl@enron.com,Kurt Lindahl,1
+21117,tk.lohman@enron.com,TK Lohman,1
+21510,victor.munoz@enron.com,Victor Munoz,1
+21512,greg.mccracken@enron.com,Greg Mccracken,1
+22157,simon.brooks@enron.com,0,1
+22158,martin.mcdermott@enron.com,0,1
+22163,john.metzler@enron.com,0,1
+22456,james.studdert@enron.com,0,1
+22636,tbelden@enron.com,0,1
+23304,michelle.cisneros@enron.com,0,1
+23333,darrell.schoolcraft@enron.com,0,1
+23667,mohsin.manzoor@enron.com,0,1
+23672,jeffery.fawcett@enron.com,0,1
+23755,bob.gates@enron.com,0,1
+23771,john.lamb@enron.com,0,1
+24110,wbooth@booth-law.com,0,0
+24111,brbarkovich@earthlink.net,0,0
+24943,michelle.lokay@enron.com,0,1
+24980,lizzette.palmer@enron.com,0,1
+25038,iris.waser@enron.com,0,1
+25663,asettanni@bracepatt.com,0,0
+26568,elizabeth.brown@enron.com,Elizabeth Brown,1
+27753,articles-email@ms1.lga2.nytimes.com,0,0
+27883,griffith@mailman.enron.com,0,1
+28480,seabron.adamson@frontier-economics.com,0,0
+28489,ellen@tca-us.com,0,0
+28522,kcurry@bracepatt.com,0,0
+28525,mday@gmssr.com,0,0
+28538,dezickson@mwe.com,0,0
+28554,sbishop@gibbs-bruns.com,0,0
+28559,jlgreene@energyadvocates.com,0,0
+28563,steve.c.hall@enron.com,0,1
+28579,cfi1@tca-us.com,0,0
+28621,pmeringolo@brobeck.com,0,0
+28654,mona.petrochko@enron.com,0,1
+28727,marcie.milner@enron.com,0,1
+28729,scott.bolton@enron.com,0,1
+28730,susan.landwehr@enron.com,0,1
+28782,robert.williams@enron.com,0,1
+28783,roger.yang@enron.com,0,1
+29118,michelle.blaine@enron.com,Michelle Blaine,1
+29284,jklauber@llgm.com,"""John Klauberg""",0
+29286,enrique.velasco@elpaso.com,0,0
+29287,armando.calvo@elpaso.com,0,0
+29288,bob.perez@elpaso.com,0,0
+29311,stephanie.truss@enron.com,Stephanie Truss,1
+29413,mark.elliott@enron.com,0,1
+29416,richard.b.sanders@enron.com,0,1
+29453,vkamins@enron.com,0,1
+29461,vkaminski@aol.com,0,0
+29594,hillh@stanford.edu,Hill Huntington,0
+30000,sbigalow@email.msn.com,"""SBigalow""",0
+30005,gary.weiss@enron.com,Gary Weiss,1
+30032,viacheslav.danilov@enron.com,Viacheslav Danilov,1
+30141,pannesley@riskwaters.com,"""philip annesley""",0
+30411,j_martin@baylor.edu,0,0
+30529,schuler@rice.edu,Doug Schuler,0
+30546,gemanix@aol.com,0,0
+30584,kaminski@mailman.enron.com,0,1
+30687,dee.madole@enron.com,0,1
+30889,dale.nesbitt@marketpointinc.com,"""Dale M. Nesbitt""",0
+30976,eklavya.sareen@enron.com,0,1
+30993,djray@engr.wisc.edu,Dennis Ray,0
+31231,katja.schilling@enron.com,0,1
+31664,robert.hill@enron.com,0,1
+31843,wolak@zia.stanford.edu,"""Frank A. Wolak""",0
+32082,vincek@leland.stanford.edu,0,0
+32436,etoolson@hesinet.com,"""Eric Toolson""",0
+32441,aruna_inalsingh@reval.com,"""Aruna Inalsingh@Reval""",0
+32444,boughton@maui.net,0,0
+32652,kean@rice.edu,0,0
+32879,rob.wilson@enron.com,0,1
+33830,carin.nersesian@enron.com,Carin Nersesian,1
+33831,larry.decker@enron.com,Larry Decker,1
+34033,jalexander@gibbs-bruns.com,jalexander,0
+34034,djn@pkns.com,djn,0
+34035,dcastro@pkns.com,dcastro,0
+34186,edward.hamb@enron.com,0,1
+34197,tanya.leslie@enron.com,0,1
+34203,sgovenar@govadv.com,0,0
+34204,hgovenar@govadv.com,0,0
+34227,robert.c.williams@enron.com,robert.c.williams,1
+34229,mpalmer@enron.com,mpalmer@enron.com,1
+34230,douglas.condon@enron.com,Douglas Condon,1
+34231,wgang@enron.com,wgang@enron.com,1
+34732,andrew.h.lewis@enron.com,andrew.h.lewis,1
+34733,lewis@mailman.enron.com,LEWIS,1
+35533,greg.cordell@enron.com,0,1
+35951,'.'gary@enron.com,e-mail,1
+37912,dsalter@hgp-inc.com,"""Dan Salter""",0
+37926,fgiffels@hgp-inc.com,"""Fred W. Giffels""",0
+37927,erdmann.garth@enron.com,0,1
+41214,jbennett@gmssr.com,0,0
+41219,wgramm@aol.com,0,0
+41256,takashi.kimura@enron.com,0,1
+41499,fsayre@enron.com,0,1
+41524,msmith1@enron.com,0,1
+41598,snovose@enron.com,0,1
+41601,rshapiro@enron.com,0,1
+41658,aw_turner@pgn.com,0,0
+41865,jche@dynegy.com,"""",0
+42012,bruno.gaillard@enron.com,0,1
+42284,peter.del.vecchio@enron.com,0,1
+42379,fmdutton@aep.com,0,0
+43877,jennifer.costa@neg.pge.com,"Jennifer"" ""Costa",0
+43907,jennifer.hein@neg.pge.com,0,0
+43929,julia.white@enron.com,0,1
+43956,breasoner@gibbs-bruns.com,0,0
+43960,lynn.blair@enron.com,0,1
+44044,frank.smith@enron.com,0,1
+44045,eileen.kisluk@enron.com,0,1
+44409,robtaylor@andrews-kurth.com,0,0
+44520,kmagrude@enron.com,0,1
+44774,blundst@ei.enron.com,0,1
+45145,jsteffe@enron.com,0,1
+45218,nemec@mailman.enron.com,0,1
+45716,vbyrd@velaw.com,0,0
+46202,rbaird@velaw.com,"Bob"" ""Baird",0
+46208,jdilg@velaw.com,"Joe"" ""Dilg",0
+46209,mtuohey@velaw.com,0,0
+46424,wjoor@velaw.com,"William E., III"" ""Joor",0
+46785,debinorton@aol.com,"""",0
+46788,cra@calretailers.com,"""",0
+46799,dcazalet@apx.com,"""",0
+46802,dominic.dimare@calchamber.com,"""",0
+46811,jstewart@cmta.net,"""",0
+46813,smutny@iepa.com,"""Jan Smutny-Jones """,0
+46814,jdasovic@enron.com,"""Jeff Dasovich """,1
+46819,joer@calpine.com,"""",0
+46825,vjw@cleanpower.org,"""John White """,0
+46836,kmccrea@sablaw.com,"""Keith McCrea """,0
+46839,lga@mother.com,"""Lenny Goldberg """,0
+46841,mdjoseph@adamsbroadwell.com,"""Marc Joseph """,0
+46845,mflorio@turn.org,"""Mike Florio """,0
+46859,smara@enron.com,"""",1
+47048,craigc@calpine.com,0,0
+47052,douglass@arterhadden.com,0,0
+47075,gtbl@dynegy.com,0,0
+47088,jleslie@luce.com,0,0
+47131,napedersen@jonesday.com,0,0
+47149,rbw@mrwassoc.com,0,0
+47165,rpelote@energy.twc.com,0,0
+47276,curtis_l_kebler@reliantenergy.com,0,0
+47314,jmpa@dynegy.com,0,0
+47377,steven@iepa.com,"""Steven Kelly""",0
+47379,billw@calpine.com,0,0
+47380,wfhall2@duke-energy.com,0,0
+47381,steve_ponder@fpl.com,0,0
+47837,rjhickok@duke-energy.com,0,0
+47920,mike.dahlke@enron.com,0,1
+47951,pamela.lesh@enron.com,0,1
+48098,foothi19@idt.net,0,0
+48100,billr@calpine.com,0,0
+48102,jcgardin@newwestenergy.com,0,0
+48105,kewh@dynegy.com,0,0
+48107,rllamkin@seiworldwide.com,0,0
+48108,rsnichol@newwestenergy.com,0,0
+48158,cabaker@duke-energy.com,"""",0
+48200,lisa_g_urick@calpx.com,"""",0
+48207,gackerman@wptf.org,"""",0
+48218,jkarp@whitecase.com,"""",0
+48221,jackp@calpine.com,"""",0
+48344,west.ga@enron.com,0,1
+48346,charlotte@wptf.org,webmaster,0
+48347,gramlr@pjm.com,0,0
+48349,mnacht@socrates.berkeley.edu,0,0
+48350,doornbos@socrates.berkeley.edu,0,0
+48351,lfried@uclink.berkeley.edu,0,0
+48352,glwaas@calpx.com,Gene Waas,0
+48354,curt.hatton@gen.pge.com,curt hatton,0
+48355,filuntz@aol.com,0,0
+48357,amosher@appanet.org,0,0
+48366,market_participant_ab1@calpx.com,0,0
+48367,market_participant_cd2@calpx.com,0,0
+48368,market_participant_eg1@calpx.com,0,0
+48369,market_participant_eg2@calpx.com,0,0
+48370,market_participant_hj1@calpx.com,0,0
+48371,market_participant_kl2@calpx.com,0,0
+48372,market_participant_mn1@calpx.com,0,0
+48373,market_participant_mn2@calpx.com,0,0
+48374,market_participant_or2@calpx.com,0,0
+48375,market_participant_uz1@calpx.com,0,0
+48381,rreilley@coral-energy.com,0,0
+48386,david.merrill@enron.com,0,1
+48412,hcameron@uclink.berkeley.edu,0,0
+48413,whederman@columbiaenergygroup.com,0,0
+48421,james.d.steffes@enron.com,James D Steffes,1
+48422,susan.j.mara@enron.com,0,1
+48445,dnelsen@gwfpower.com,Duane Nelsen,0
+48455,lale@dynegy.com,0,0
+48459,ntraweek@caiso.com,0,0
+48461,liz@luntz.com,0,0
+48462,gary.mirich@enron.com,0,1
+48534,rmcnally@mcnallytemple.com,0,0
+48545,drothrock@camfg.com,0,0
+48550,carrrn@bracepatt.com,0,0
+48559,knorton@mcnallytemple.com,"""Kelli Norton""",0
+48560,wscobee@caithnessenergy.com,"""Ward Scobee""",0
+48561,twetzel@thermoecotek.com,"""Tony Wetzel""",0
+48562,hellertj@apci.com,"""Tom Heller""",0
+48563,tcortopassi@ogden-energy.com,"""Ted Cortopassi""",0
+48564,siliff@riobravo-gm.com,"""Steve Iliff""",0
+48565,freesrj@apci.com,"""Robert Frees""",0
+48566,pete@calwind.com,"""Pete Levitt""",0
+48567,paula_soos@ogden-energy.com,"""Paula Soos""",0
+48568,bfpjv@c-zone.net,"""Milton Schultz""",0
+48569,marty_mcfadden@ogden-energy.com,"""Marty McFadden""",0
+48570,khoffman@caithnessenergy.com,"""Ken Hoffman""",0
+48571,jweisgall@aol.com,"""Jonathan Weisgall""",0
+48572,joe.greco@uaecorp.com,"""Joe Greco""",0
+48573,rboyd@enron.com,"""Hap Boyd""",1
+48574,fmisseldine@caithnessenergy.com,"""Frank Misseldine""",0
+48575,ed.tomeo@uaecorp.com,"""Ed Tomeo""",0
+48576,emaddox@seawestwindpower.com,"""Ed Maddox""",0
+48577,sdl@calwind.com,"""Doug Levitt""",0
+48578,dean_gosselin@fpl.com,"""Dean Gosselin""",0
+48579,cody.carter@williams.com,"""Cody Carter""",0
+48580,rescalante@riobravo-gm.com,"""Bob Escalante""",0
+48581,william_carlson@wastemanagement.com,"""Bill Carlson""",0
+48585,mcmannes@aol.com,"""Tandy McMannes""",0
+48593,kfickett@usgen.com,"""Kent Fickett""",0
+48598,john_h_stout@reliantenergy.com,"""John Stout""",0
+48601,elliottsa@earthlink.net,"""Jim Willey""",0
+48608,frank.derosa@gen.pge.com,"""Frank DeRosa""",0
+48611,dparque@ect.enron.com,"""Dave Parquet""",1
+48612,bellery@spi-ind.com,"""Bob Ellery""",0
+48621,eileenk@calpine.com,"""Eileen Kock """,0
+48623,fderosa@sanfrancisco.usgen.com,"""Frank DeRosa """,0
+48624,rwhyde@duke-energy.com,"""Richard Hyde """,0
+48625,stephanie-newell@reliantenergy.com,"""Stephanie Newell """,0
+48627,bhansen@lhom.com,0,0
+48635,jmball@ns.net,0,0
+48638,susan_j_mara@enron.com,0,1
+48642,jdasovic@ees.enron.com,0,1
+48656,foothill@lmi.net,0,0
+48685,terri_l_ponce_de_leon@calpx.com,0,0
+48686,karen_y_koyano@calpx.com,0,0
+48699,nam.nguyen@powersrc.com,"""Nam Nguyen""",0
+48700,dkk@eslawfirm.com,0,0
+48735,dbenevid@enron.com,0,1
+48742,alex.sugaoka@uaecorp.com,"""",0
+48750,kmagruder@newpower.com,"""",0
+48767,michael.kenneally@enron.com,0,1
+48786,market_participant_or1@calpx.com,0,0
+48831,px_marketing_services@calpx.com,0,0
+49194,julie.miller@sce.com,0,0
+49195,rmcmanus@bakerbotts.com,0,0
+49204,barbara_klemstine@apsc.com,0,0
+49205,bob_anderson@apses.com,0,0
+49206,ken_czarnecki@calpx.com,0,0
+49207,camiessn@newwestenergy.com,0,0
+49257,trusso@mcnallytemple.com,"""Russo Tony""",0
+49258,tross@mcnallytemple.com,"""Ross Tom""",0
+49259,roger.pelote@williams.com,"""Roger Pelote""",0
+49260,mwilson@pstrategies.com,"""Marty Wilson""",0
+49261,frayblay@aol.com,"""Frazier Baylock""",0
+49264,tcwillia@duke-energy.com,"""C Williams Thomas""",0
+49265,andybrwn@earthlink.net,"""B Brown Andy""",0
+49266,kgough@calpine.com,"""Kassandra Gough""",0
+49296,gfoster@antigenics.com,"Gary"" ""Foster",0
+49351,rtemple@mcnallytemple.com,0,0
+49368,kvellandi@pstrategies.com,"""Kristin Vellandi""",0
+49548,eschmid@caiso.com,"""Ms. Mistoffelees""",0
+49572,jkradin@marathon-com.com,0,0
+49573,rlichtenstein@marathon-com.com,0,0
+49574,syamane@marathon-com.com,0,0
+49654,kent.palmerton@williams.com,"""Kent Palmerton""",0
+49667,paula.hall-collins@williams.com,"""",0
+49673,isenberg@hmot.com,0,0
+49683,acomnes@enron.com,0,1
+49689,lynn.a.lednicky@dynegy.com,"""Lynn Lednicky """,0
+49713,john.g.larrea@williams.com,"""John Larrea """,0
+49734,eric.eisenman@gen.pge.com,"Eric"" ""Eisenman",0
+49765,jmiller@caiso.com,"Jeff"" ""Miller",0
+49813,dnelsen@msn.com,"""Duane Nelson""",0
+49815,fernley.doug@epenergy.com,"""Doug Fernley """,0
+49864,ccastillo@riobravo-gm.com,"""Kate Castillo""",0
+49865,sandi_j._thompson@calpx.com,0,0
+49879,jmunoz@mcnallytemple.com,"""Jean Munoz""",0
+49892,hap_boyd@enron.com,"""Hap Boyd """,1
+49978,ain@worldnet.att.net,0,0
+49980,cte@eslawfirm.com,0,0
+49991,mmolland@brobeck.com,0,0
+50081,dfulton@enron.com,0,1
+50101,kellyl@enxco.com,0,0
+50109,jack.hawks@gen.pge.com,"""Hawks Jack \(E-mail\)""",0
+50187,jfrizzell@gibbs-bruns.com,0,0
+50192,jgreco@caithnessenergy.com,"""Joe Greco \(E-mail\)""",0
+50279,rskoebbe@powerworksinc.com,"""Rick S. Koebbe \(E-mail\)""",0
+50289,dlugar@quinngillespie.com,0,0
+50308,bbailey@duke-energy.com,0,0
+50320,rjszymanski@powerworksinc.com,"""Bob Szymanski \(E-mail\)""",0
+50322,frazier_blaylock@ogden-energy.com,"""Frazier Blaylock \(E-mail\)""",0
+50477,mmilner@coral-energy.com,"""",0
+50701,mmoretti@mccabeandcompany.net,"""",0
+50703,mnobili@cal-lobby.com,"""",0
+50711,dean.nistetter@dynegy.com,"""Dean. Nistetter """,0
+50729,edgillespie@quinngillespie.com,0,0
+50734,rachel.king@elpaso.com,"""",0
+50751,bandrews@quinngillespie.com,Bruce Andrews,0
+50779,sadlersa@earthlink.net,0,0
+50780,mstultz@epsa.org,0,0
+50781,tracy.fairchild@edelman.com,0,0
+50782,megan.beiser@edelman.com,0,0
+50783,lchurch@epsa.org,0,0
+50824,nplotkin@tfglobby.com,0,0
+50857,tmcmorrow@manatt.com,0,0
+51163,thoulihan@mdbe.com,"""",0
+51165,jguzman@nossaman.com,"""",0
+51215,mmattes@nossaman.com,"""",0
+51260,ray.alvarez@ei.enron.com,0,1
+51267,suzy.l.rodriguez@dynegy.com,0,0
+51302,ppitts@wiredworld1.com,0,0
+51309,afishman@bracepatt.com,"""Aryeh Fishman""",0
+51311,roberta.staehlin@enron.com,0,1
+51315,scott.chavez@sen.ca.gov,0,0
+51316,tallen@buckham.com,0,0
+51333,sscsus@aol.com,0,0
+51351,derek.naten@roche.com,0,0
+51416,john.redding@gene.ge.com,0,0
+51444,cingebretson@bracepatt.com,"""Charles Ingebretson""",0
+51563,alex.goldberg@williams.com,0,0
+51578,mike-jines@reliantenergy.com,0,0
+51586,jprussell@duke-energy.com,0,0
+51588,jdne@dynegy.com,0,0
+51589,lcottle@whitecase.com,0,0
+51590,jareding@phjw.com,0,0
+51591,jeff.lam@bchydro.bc.ca,0,0
+51592,jtiffany@pillsburywinthrop.com,0,0
+51593,jvaughn@luce.com,0,0
+51594,lynn.mcconnell@williams.com,0,0
+51595,mhaine@enron.com,0,1
+51596,macknemd@sce.com,0,0
+51597,mkass@pillsburywinthrop.com,0,0
+51598,dmbutz@butzdunn.com,0,0
+51746,arem@electric.com,0,0
+51747,erica.manuel@edelman.com,0,0
+51937,mkahl@ka-pow.com,0,0
+51943,ann.cohn@sce.com,0,0
+52081,carole.hodge@enron.com,0,1
+52084,michaellewanco@worldnet.att.net,0,0
+52092,mlk@pkns.com,0,0
+52096,nick.o'day@enron.com,0,1
+52097,ralph@censtrat.com,0,0
+52180,bryan.gottredson@enron.com,0,1
+53413,'.'jan@enron.com,e-mail,1
+53467,neal.gerstandt@enron.com,0,1
+53495,aaron.brown@enron.com,0,1
+54961,awalia@enron.com,0,1
+54962,ashouse@velaw.com,0,0
+54964,sbarber@velaw.com,0,0
+54965,bbloom@velaw.com,0,0
+54979,pges@dynegy.com,0,0
+55002,dsgeorge@firstworld.net,"""Dick S George""",0
+55091,karlgallan@aol.com,0,0
+55140,'black@enron.com,0,1
+55141,andy.black@mail.house.gov,0,0
+56508,lori.maddox@enron.com,0,1
+56511,susan.ralph@enron.com,0,1
+56711,kevin_a_howard.enronxgate.enron@enron.net,0,0
+56727,kevin.howard@enron.net,0,0
+56827,jnovak@ei.enron.com,0,1
+56853,sean.black@enron.com,0,1
+56895,hwendell@mdbe.com,0,0
+57313,droark@velaw.com,0,0
+57550,shackleton@mailman.enron.com,0,1
+57915,michael.burke@enron.com,0,1
+57935,steve.duffy@enron.com,0,1
+58526,haedicke@mailman.enron.com,0,1
+59795,nclark@velaw.com,Nicole Clark,0
+63676,offley@hoover.stanford.edu,Caleb Offley,0
+63677,paffairs2@hoover.stanford.edu,0,0
+64976,william.e.@enron.com,0,1
+65010,mmcgown@velaw.com,0,0
+65012,gsasser@velaw.com,0,0
+65058,ed@buckham.com,0,0
+65068,deborah.defforge@enron.com,0,1
+65081,james.l.bouillion@enron.com,"""",1
+65082,drogers2@ei.enron.com,"""",1
+65083,sandeep.katwala@ei.enron.com,"""",1
+65084,gail.brownfield@enron.com,"""",1
+65085,charles.e.cheek@enron.com,"Charles (Enron)"" ""Cheek",1
+65086,rbutts@enron.com,"""",1
+65087,lnettles@velaw.com,0,0
+65088,eosterberg@velaw.com,0,0
+65089,jmunoz@velaw.com,0,0
+65090,ageller@velaw.com,0,0
+65091,preilly@velaw.com,0,0
+65098,meredith.phillipp@enron.com,0,1
+65101,rlevin@nymex.com,0,0
+65151,robert_zoellick@gmfus.org,0,0
+65166,richard@ceg.com,0,0
+65189,darren@gwbush.com,0,0
+65190,ccooney@enron.com,0,1
+65191,hlhunt@gwbush.com,0,0
+65192,hlhunt@georgewbush.com,"Hunter L"" ""Hunt",0
+65255,carol_benter@mckinsey.com,0,0
+65258,nate.ellis@enron.com,0,1
+65279,dcasse@whwg.com,Daniel Casse,0
+65340,sreyno@state.wy.us,"""Steve Reynolds""",0
+65348,john_presley@enron.net,0,0
+65373,dg27@pacbell.net,0,0
+65403,akim@m-g.com,"Amy"" ""Kim",0
+65421,andrea.settanni@enron.com,0,1
+65464,wgramm@osf1.gmu.edu,0,0
+67988,jones@mailman.enron.com,0,1
+68579,shapiro@enron.com,0,1
+68713,dale.clark@enron.com,0,1
+72541,richard.miles@ferc.fed.us,0,0
+76502,jwahl@cinergy.com,"Jennifer"" ""Wahl",0
+78183,dfergus@brobeck.com,0,0
+78185,'.'dan@enron.com,e-mail,1
+78186,'.'ron@enron.com,e-mail,1
+78203,eberlin@swidlaw.com,0,0
+78338,tim.muller@williams.com,"Tim"" ""Muller",0
+80072,"deborah"".'""greenwood@enron.com",0,1
+80242,hthomas@gspcorp.com,0,0
+80570,apickens@gibbs-bruns.com,0,0
+80591,rgibbs@gibbs-bruns.com,0,0
+80609,bmerryman@whitecase.com,0,0
+80611,charles.zdebski@troutmansanders.com,0,0
+80612,chealey@luce.com,0,0
+80613,cmpallenik@duke-energy.com,0,0
+80615,cvarner@smrh.com,0,0
+80616,dpickett@mdbe.com,0,0
+80617,dtribble@pillsburywinthrop.com,0,0
+80618,eisenstatl@dsmo.com,0,0
+80619,fallonr@dsmo.com,0,0
+80621,gallen@bakerbotts.com,0,0
+80622,gcopeland@bakerbotts.com,0,0
+80623,heather.brown@williams.com,0,0
+80624,hershberger@scmv.com,0,0
+80625,holcombb@dsmo.com,0,0
+80627,james.beh@troutmansanders.com,0,0
+80628,jeffrey_davidson@la.kirkland.com,0,0
+80629,john.gammie@williams.com,0,0
+80630,jshohet@graycary.com,0,0
+80631,jtbrooks@luce.com,0,0
+80632,juneann.sauntry@troutmansanders.com,0,0
+80633,kadzikp@dsmo.com,0,0
+80634,kirk.forrest@williams.com,0,0
+80635,kleinmanj@dsmo.com,0,0
+80636,leone@scmv.com,0,0
+80637,llane@graycary.com,0,0
+80638,marylou.peters@msdw.com,0,0
+80639,mcmahon@scmv.com,0,0
+80640,mhamer@graycary.com,0,0
+80641,mmaxwell@bakerbotts.com,0,0
+80642,msottosanti@smrh.com,0,0
+80644,nnissen@mdbe.com,0,0
+80645,perlism@dsmo.com,0,0
+80646,rcoleman@duke-energy.com,0,0
+80647,robert.edwards@troutmansanders.com,0,0
+80648,roppe@scmv.com,0,0
+80649,rsteiner@luce.com,0,0
+80651,steve.herman@neg.pge.com,0,0
+80652,tanya.murphy@neg.pge.com,0,0
+80654,thixson@mdbe.com,0,0
+80656,tkennedy@mdbe.com,0,0
+80657,tony_richardson@la.kirkland.com,0,0
+80658,ttaylor@smrh.com,0,0
+80671,bestorg@dsmo.com,"Geoffrey"" ""Bestor",0
+80672,erik.bliss@lw.com,"Erik"" ""Bliss",0
+80673,dbutswinkas@wc.com,"Dane"" ""Butswinkas",0
+80674,echapin@chapinlaw.com,"Edward"" ""Chapin",0
+80676,brady.edwards@bakerbotts.com,"Brady"" ""Edwards",0
+80677,scott.harris@nrgenergy.com,"Scott"" ""Harris",0
+80678,bkatz@chapinlaw.com,"Bruno"" ""Katz",0
+80680,sraber@wc.com,"Stephen"" ""Raber",0
+80681,springerj@dsmo.com,"James"" ""Springer",0
+80682,jsturgeon@whitecase.com,"John"" ""Sturgeon",0
+80683,mike.weaver@lw.com,"Michael"" ""Weaver",0
+80684,hwiegmann@wc.com,"Hack"" ""Wiegmann",0
+80686,justin.williams@linklaters.com,0,0
+80717,sanford.hartman@neg.pge.com,"Sanford"" ""Hartman",0
+80734,hugh.davenport@mirant.com,"Hugh"" ""Davenport",0
+80735,zack.starbird@mirant.com,"Zackary"" ""Starbird",0
+80736,dan.wall@lw.com,"Dan"" ""Wall",0
+80747,ghalling@smrh.com,"""Gary Halling""",0
+80748,millerl@dsmo.com,"""Lisa Miller""",0
+80751,lhernandez@luce.com,"Lynne"" ""Hernandez",0
+80752,peter.benzian@lw.com,"Peter"" ""Benzian",0
+80760,tspanos@morganlewis.com,"""",0
+80761,david_burns@reliantenergy.com,"David"" ""Burns",0
+80764,pete_m_schenkkan@reliantenergy.com,"Pete"" ""Schenkkan",0
+80767,tkinnear@luce.com,"Todd"" ""Kinnear",0
+80768,ernie.kohnke@dynegy.com,"Ernie"" ""Kohnke",0
+80769,sydne_michel@la.kirkland.com,"Sydne"" ""Michel",0
+80770,james_ransom@la.kirkland.com,"James"" ""Ransom",0
+80775,ncregan@mdbe.com,0,0
+80776,jennifer.scafe@lw.com,0,0
+80777,joel.mack@lw.com,0,0
+80872,gphillip@enron.com,"""George Phillips """,1
+83070,saatkins@swidlaw.com,0,0
+83072,sgreenleaf@caiso.com,0,0
+83084,ehildebrandt@caiso.com,0,0
+83094,crobinson@caiso.com,0,0
+83096,rabernathy@caiso.com,0,0
+83105,eriley@caiso.com,0,0
+83121,kgjaffe@swidlaw.com,0,0
+83969,sandra.zala@enron.com,0,1
+87248,plombardo@plantsystems.com,PLombardo,0
+87255,cmrcoreteam@caiso.com,0,0
+87256,cmrsteeringcommittee@caiso.com,0,0
+87257,cmrexecutivepolicyteam@caiso.com,0,0
+87263,afrahimi@nilou.com,0,0
+87269,mwillis@caiso.com,0,0
+87270,rwilson@stanford.edu,0,0
+87398,kfluckiger@caiso.com,0,0
+87399,zlazic@caiso.com,0,0
+87400,pmackin@caiso.com,0,0
+87401,tbibb@caiso.com,0,0
+87402,pgarris@caiso.com,0,0
+87403,bellard@caiso.com,0,0
+87404,dwimberly@caiso.com,0,0
+87405,smccorkle@caiso.com,0,0
+87406,djohns@caiso.com,0,0
+87407,mbockie@caiso.com,0,0

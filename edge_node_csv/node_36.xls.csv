@@ -1,0 +1,34 @@
+id,email,label,enron
+48373,market_participant_mn2@calpx.com,0,0
+48372,market_participant_mn1@calpx.com,0,0
+48371,market_participant_kl2@calpx.com,0,0
+3495,nicholas.o'day@enron.com,0,1
+9244,richard.sanders@enron.com,0,1
+48374,market_participant_or2@calpx.com,0,0
+46814,jdasovic@enron.com,"""Jeff Dasovich """,1
+48685,terri_l_ponce_de_leon@calpx.com,0,0
+5125,john.ambler@enron.com,0,1
+48831,px_marketing_services@calpx.com,0,0
+3164,rcarroll@bracepatt.com,"""Ronald Carroll""",0
+5416,mark.schroeder@enron.com,0,1
+68579,shapiro@enron.com,0,1
+9537,barbara.hueter@enron.com,0,1
+48366,market_participant_ab1@calpx.com,0,0
+48367,market_participant_cd2@calpx.com,0,0
+28480,seabron.adamson@frontier-economics.com,0,0
+17095,mary.hain@enron.com,0,1
+48368,market_participant_eg1@calpx.com,0,0
+1463,maureen.mcvicker@enron.com,0,1
+48370,market_participant_hj1@calpx.com,0,0
+48786,market_participant_or1@calpx.com,0,0
+46859,smara@enron.com,"""",1
+1490,steven.kean@enron.com,0,1
+5128,jeannie.mandelker@enron.com,0,1
+49194,julie.miller@sce.com,0,0
+49195,rmcmanus@bakerbotts.com,0,0
+9311,joe.hillings@enron.com,0,1
+28579,cfi1@tca-us.com,0,0
+2215,john.hardy@enron.com,John Hardy Jr,1
+2315,kelly.kimberly@enron.com,Kelly Kimberly,1
+1452,david.delainey@enron.com,David Delainey,1
+1570,rob.bradley@enron.com,0,1

@@ -1,0 +1,4 @@
+id,email,label,enron
+80242,hthomas@gspcorp.com,0,0
+42284,peter.del.vecchio@enron.com,0,1
+242,michelle.cash@enron.com,Michelle Cash,1

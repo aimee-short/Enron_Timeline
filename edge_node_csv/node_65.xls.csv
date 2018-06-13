@@ -1,0 +1,35 @@
+id,email,label,enron
+554,martin.lin@enron.com,Martin Lin,1
+701,john.lavorato@enron.com,John Lavorato,1
+4651,ken.rice@enron.com,0,1
+4652,andrew.fastow@enron.com,0,1
+3538,mark.frevert@enron.com,Mark Frevert,1
+4638,james.derrick@enron.com,0,1
+1547,mark.palmer@enron.com,0,1
+29461,vkaminski@aol.com,0,0
+2058,shirley.crenshaw@enron.com,Shirley Crenshaw,1
+4001,gfergus@brobeck.com,0,0
+2170,mary.clark@enron.com,Mary Clark,1
+2157,elizabeth.linnell@enron.com,Elizabeth Linnell,1
+34033,jalexander@gibbs-bruns.com,jalexander,0
+32082,vincek@leland.stanford.edu,0,0
+1654,j.kaminski@enron.com,0,1
+817,richard.shapiro@enron.com,Richard Shapiro,1
+1174,b..sanders@enron.com,Richard B. Sanders,1
+43956,breasoner@gibbs-bruns.com,0,0
+2044,lance.cunningham@enron.com,Lance Cunningham,1
+5118,elizabeth.tilney@enron.com,0,1
+1490,steven.kean@enron.com,0,1
+52092,mlk@pkns.com,0,0
+4770,rebecca.mcdonald@enron.com,0,1
+9314,jeffrey.keeler@enron.com,0,1
+1621,kevin.garland@enron.com,0,1
+4130,kevin.hannon@enron.com,0,1
+28554,sbishop@gibbs-bruns.com,0,0
+2315,kelly.kimberly@enron.com,Kelly Kimberly,1
+3441,kenneth.lay@enron.com,0,1
+1180,karen.denne@enron.com,Karen Denne,1
+4058,jeff.skilling@enron.com,0,1
+1477,greg.whalley@enron.com,0,1
+32436,etoolson@hesinet.com,"""Eric Toolson""",0
+5914,kalen.pieper@enron.com,0,1
